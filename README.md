@@ -7,7 +7,7 @@ ALGHOSIATRANSPORT propose un service de chauffeur privé haut de gamme disponibl
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>ALGHOSIATRANSPORT - Chauffeur Privé</title>
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="Style.css">
 </head>
 
 <body>
